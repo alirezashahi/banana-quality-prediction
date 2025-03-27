@@ -4,7 +4,7 @@ This project predicts banana quality using machine learning models like SVM, XGB
 
 ## 📂 Files
 - `banana_quality.ipynb` → Kaggle Notebook
-- `banana_data.csv` → Dataset (if applicable)
+- `banana_quality.csv` → Dataset (if applicable)
 - `banana_quality_svm.pkl` → Trained Model
 
 ## 🚀 How to Run
